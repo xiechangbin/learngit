@@ -1,3 +1,4 @@
 abcdefg
 hello world
-creating a new branch is quick &simple. master
+creating a new branch is quick and simple
+
